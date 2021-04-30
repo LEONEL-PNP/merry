@@ -781,7 +781,7 @@ Fecha: ${calender}
 ٌ؞${samu} Grupo:${samu} *${groupName}*👥
 ٌ؞${samu} Número de grupos:${samu} *${_registered.length}*⚡
 ٌ؞${samu} Número de chats:${samu} *${totalchat.length}*🔥
-ٌ؞${samu} Numero del Dueño wa.me/+529984907794${samu}🏆
+ٌ؞${samu} Numero del Dueño wa.me/+51951619444${samu}🏆
 
 ⍣ *BOT INFO* ⍣
 ${samu}◦ 🌐Navegador :${samu} *${samu330.browserDescription[1]}*
